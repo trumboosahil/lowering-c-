@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Lowering C# example!");
 var items = new[] { "shafi", "houd", "trumboo" };
 foreach(var item in items)
 {
